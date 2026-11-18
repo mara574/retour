@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-sapin: #1e3b2c;
+  --color-fond: #eef2ea;
+  --color-corail: #d9441a;
+  --color-encre: #17201b;
+  --color-brume: #566a5d;
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-dmsans), system-ui, sans-serif;
+}
